@@ -1,0 +1,3 @@
+1.该SpringMVC是本人在很久以前的练习代码，今天整理出来，方便以后复习。
+2.该练习使用的环境：JDK1.7+Tomcat6.0+Eclipse+SpringMVC 4.0.0版本
+3.为了使得您更好的理解代码，请结合SpringMVC学习笔记：http://blog.csdn.net/Luomingkui1109/article/category/6647820
